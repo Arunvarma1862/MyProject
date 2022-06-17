@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-17T17:29:22 IST" name="Suite" finished-at="2022-06-17T17:30:26 IST" duration-ms="64351">
+    <groups>
+    </groups>
+    <test started-at="2022-06-17T17:29:22 IST" name="Test" finished-at="2022-06-17T17:30:26 IST" duration-ms="64351">
+      <class name="mypro.test1">
+        <test-method signature="testLogin()[pri:0, instance:mypro.test1@9225652]" started-at="2022-06-17T17:29:22 IST" name="testLogin" finished-at="2022-06-17T17:29:22 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin2()[pri:0, instance:mypro.test1@9225652]" started-at="2022-06-17T17:29:22 IST" name="testLogin2" finished-at="2022-06-17T17:29:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+      </class> <!-- mypro.test1 -->
+      <class name="mypro.test2">
+        <test-method signature="intializeBrowser()[pri:0, instance:mypro.test2@c267ef4]" started-at="2022-06-17T17:29:22 IST" name="intializeBrowser" finished-at="2022-06-17T17:30:26 IST" duration-ms="64218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeBrowser -->
+      </class> <!-- mypro.test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
